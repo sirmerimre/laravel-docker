@@ -4,7 +4,7 @@
 
   Fetch Code
  
- `git clone git@bitbucket.org:socratessystems/atlantis.git`
+ `git@github.com:sirmerimre/laravel-docker.git`
  
  Add .env file 
  
