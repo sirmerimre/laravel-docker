@@ -51,7 +51,7 @@ volumes:
  docker-compose down
  ```
  
- Install required Atlantis packages:
+ Install required packages:
  
  `composer install`
  
